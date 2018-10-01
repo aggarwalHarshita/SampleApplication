@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SpinnerStyle" parent="@style/Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/spinner_form_text_color</item>
+        <item name="android:textSize">@dimen/spinner_text_size</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownStyle</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemStyle</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="SpinnerDropDownStyle" parent="@style/Widget.AppCompat.Spinner.DropDown">
+        <item name="android:textColor">@color/spinner_form_text_color</item>
+        <item name="android:textSize">@dimen/spinner_text_size</item>
+    </style>
+
+    <style name="SpinnerItemStyle" parent="@style/Widget.AppCompat.TextView.SpinnerItem">
+        <item name="android:textColor">@color/spinner_form_text_color</item>
+        <item name="android:textSize">@dimen/spinner_text_size</item>
+    </style>
+
+</resources>

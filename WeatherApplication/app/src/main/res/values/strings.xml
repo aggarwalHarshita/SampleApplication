@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="celsius">ºC</string>
+    <string name="fahrenheit">ºF</string>
+    <string name="format_temperature">%.1f</string>
+    <string name="spinner_title">Select City</string>
+
+    <string-array name="city_array">
+        <item>Bangalore, IN</item>
+        <item>Dublin, IE</item>
+    </string-array>
+
+</resources>
