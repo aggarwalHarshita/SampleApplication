@@ -17,6 +17,9 @@ I have tested the app on OnePlus6 device which runs on android 8.1.
 Following ;notable libraries have been used in this project
 
 Retrofit is type-safe REST client for Android and Java which aims to make it easier to consume RESTful web services.
-Dagger is a fully static, compile-time dependency injection framework for both Java and Android
+
+Dagger is a fully static, compile-time dependency injection framework for both Java and Android.
+
 RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences.
+
 ButterKnife library is a view injection library that injects views into android activity/fragments using annotations.
