@@ -4,7 +4,7 @@
 **Introduction**
 
 This simple Android app uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
-It takes input of the city from user and displays the relevant weather information to the user.
+It takes input as city name from user and displays the relevant weather information to the user.
 
 **Running and Building**
 - This app was built with Android Studio version 3.2.1. Before building and running, please insert your own Open Weather Api key in Constant.java by altering the OPEN_WEATHER_API String.
