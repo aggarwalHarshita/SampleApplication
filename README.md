@@ -2,6 +2,7 @@
  An application that uses the OpenWeatherMap 5 day weather forecast API to retrieve the next 5 day weather forecast.
 
 **Introduction**
+
 This simple Android app uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
 It takes input of the city from user and displays the relevant weather information to the user.
 
