@@ -8,18 +8,15 @@ It takes input of the city from user and displays the relevant weather informati
 
 **Running and Building**
 
-This app was built with Android Studio version 3.2.1. Before building and running, please insert your own Open Weather Api key in Constant.java by altering the OPEN_WEATHER_API String.
+- This app was built with Android Studio version 3.2.1. Before building and running, please insert your own Open Weather Api key in Constant.java by altering the OPEN_WEATHER_API String.
 
 **Testing**
 
-I have tested the app on OnePlus6 device which runs on android 8.1.
+- I have tested the app on OnePlus6 device which runs on android 8.1.
 
 **Following ;notable libraries have been used in this project**
 
-Retrofit is type-safe REST client for Android and Java which aims to make it easier to consume RESTful web services.
-
-Dagger is a fully static, compile-time dependency injection framework for both Java and Android.
-
-RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences.
-
-ButterKnife library is a view injection library that injects views into android activity/fragments using annotations.
+1. Retrofit is type-safe REST client for Android and Java which aims to make it easier to consume RESTful web services.
+2. Dagger is a fully static, compile-time dependency injection framework for both Java and Android.
+3. RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences.
+4. ButterKnife library is a view injection library that injects views into android activity/fragments using annotations.
