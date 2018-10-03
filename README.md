@@ -3,7 +3,7 @@
 
 **Introduction**
 
-This simple Android app uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
+An Android application that uses the OpenWeatherMap 5 day weather forecast API to retrieve the current 5 day weather forecast and display a part of it in a RecyclerView.
 It takes input as city name from user and displays the relevant weather information to the user.
 
 **Running and Building**
@@ -12,7 +12,7 @@ It takes input as city name from user and displays the relevant weather informat
 **Testing**
 - I have tested the app on OnePlus6 device which runs on android 9.
 
-**Following ;notable libraries have been used in this project**
+**Following notable libraries have been used in this project**
 1. Retrofit is type-safe REST client for Android and Java which aims to make it easier to consume RESTful web services.
 2. Dagger is a fully static, compile-time dependency injection framework for both Java and Android.
 3. RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences.
